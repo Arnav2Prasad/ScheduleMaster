@@ -1,0 +1,36 @@
+day,start_time,end_time,subject,venue,teacher
+Monday,9,10,OS,202,Aparna
+Monday,10,11,,204,
+Monday,11,12,DEC,201,Aparna
+Monday,12,13,DEC,,Deepika
+Monday,13,15,,,
+Monday,15,16,,204,
+Monday,16,17,DS,,Archana
+Tuesday,9,10,,,
+Tuesday,10,11,DAA,202,Aparna
+Tuesday,11,12,DEC,201,
+Tuesday,12,13,Lunch Break,,
+Tuesday,13,15,SE-2,,Tanuja
+Tuesday,15,16,,,
+Tuesday,16,17,SE-2,202,Tanuja
+Wednesday,9,10,DAA,202,Aparna
+Wednesday,10,11,,,
+Wednesday,11,12,DEC,201,
+Wednesday,12,13,Lunch Break,,
+Wednesday,13,15,DS,,Khushal
+Wednesday,15,16,,,
+Wednesday,16,17,OS,202,Abhijeet
+Thursday,9,10,DAA,201,Aparna
+Thursday,10,11,OS,204,Abhijeet
+Thursday,11,12,DEC,201,Deepika
+Thursday,12,13,Lunch Break,,
+Thursday,13,15,DEC,,RANDOM1
+Thursday,15,16,DS,202,Archana
+Thursday,16,17,SE-2,202,Tanuja
+Friday,9,10,DS,202,Archana
+Friday,10,11,,,
+Friday,11,12,DEC,201,Deepika
+Friday,12,13,Lunch Break,,
+Friday,13,15,OS,,Abhijeet
+Friday,15,16,SE-2,201,Pradeep
+Friday,16,17,,,

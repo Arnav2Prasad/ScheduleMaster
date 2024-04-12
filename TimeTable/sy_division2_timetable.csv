@@ -1,0 +1,36 @@
+day,start_time,end_time,subject,venue,teacher
+Monday,9,11,DSA,,Pratiksha
+Monday,11,12,VCPDE,201,Seema
+Monday,12,13,Lunch Break,,
+Monday,13,14,,,
+Monday,14,15,TOC,201,Jibi
+Monday,15,16,DSA,201,Pratiksha
+Monday,16,17,DC,201,Gaikwad
+Tuesday,9,11,MPT,,Trishna
+Tuesday,11,12,RPPOOP,203,Seema
+Tuesday,12,13,VCPDE,,
+Tuesday,13,14,,203,Kshirsagar
+Tuesday,14,15,DC,,
+Tuesday,15,16,,201,
+Tuesday,16,17,,201,
+Wednesday,9,11,MPT,,Revankar
+Wednesday,11,12,TOC,201,Soma
+Wednesday,12,13,Lunch Break,,
+Wednesday,13,14,BFE,203,Bhagyashree
+Wednesday,14,15,,,
+Wednesday,15,16,RPPOOP,201,Trishna
+Wednesday,16,17,MPT,201,Sawant
+Thursday,9,11,SA,,M tech1
+Thursday,11,12,BFE,201,Bhagyashree
+Thursday,12,13,Lunch Break,,
+Thursday,13,14,VCPDE,203,Seema
+Thursday,14,15,DC,201,Kshirsagar
+Thursday,15,16,SA,203,Kokate
+Thursday,16,17,TOC,201,Soma
+Friday,9,11,MPT,,
+Friday,11,12,,,
+Friday,12,13,Lunch Break,,
+Friday,13,14,,203,Pratiksha
+Friday,14,15,,201,
+Friday,15,16,DSA,,Pratiksha
+Friday,16,17,,201,
